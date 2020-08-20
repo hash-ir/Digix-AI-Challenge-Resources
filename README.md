@@ -1,6 +1,7 @@
 # Digix-AI-Challenge-Resources
 
-* [Hackathon link](https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/101592649207348035)
+* [Huawei Hackathon link](https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/101592649207348035)
+* [Facebook link](https://fbai3.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover)
 * [Dataset link](https://colab.research.google.com/drive/1uBeyAR329YQAH8h1_elwIUuc7hCCRbD7?authuser=1)
 
 ## Competition track A: Machine learning
