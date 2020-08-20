@@ -3,6 +3,20 @@
 * [Hackathon link](https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/101592649207348035)
 * [Dataset link](https://colab.research.google.com/drive/1uBeyAR329YQAH8h1_elwIUuc7hCCRbD7?authuser=1)
 
+## Competition track A: Machine learning
+Proposal 1: Advertisement CTR prediction
+
+Advertisement CTR prediction is at the core of any advertising campaign. Increasing the accuracy of predictions is critical to improving the effectiveness of advertising.
+To help contestants better and more comprehensively predict user engagement with advertising (that is, click probability), this proposal provides anonymous data with more than 40 fields that encompass the full range of user behavior data (including the resident city, active time by mobile phone, and time at which a behavior occurs), basic ad task attributes (including the creative type, asset display form, and advertiser ID), and basic user information (including the age, gender, and device information) in a real paid ad display.
+Contestants are required to use algorithms to build CTR prediction models based on the given training data, and submit works based on the given test data set. Area Under Curve (AUC) is adopted to evaluate the works. This proposal aims to find talented individuals to improve CTR prediction algorithms.
+
+Proposal 2: Search ranking prediction
+
+Search ranking is the system for ranking selected documents by the given query-document correlation and displaying the result for users, which is a major challenge for search engines. Increasing the accuracy of rankings is critical to improving the search experience of mobile users.
+This proposal provides contestants with training data for building ranking models in a content search scenario, including the correlation label, query ID, document ID, and a total of approximately 100 features across six categories: network graph (including the PageRank indicator), query (including the number of core words and search intention), text matching (including the BM25 score and tightness feature), document (including the content length, title length, and URL length), web classification (including the webpage category, and whether a page is the home page), and time (including the page publishing time).
+Contestants are required to build ranking models based on the given training data, and submit works based on the given test data set. Expected Reciprocal Rank (ERR) is adopted to evaluate the works.
+This proposal aims to find talented individuals to improve search engine ranking algorithms.
+
 ## Competition track B: Computer vision
 Digital device image retrieval
 
