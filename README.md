@@ -5,11 +5,15 @@
 * [Dataset link](https://colab.research.google.com/drive/1uBeyAR329YQAH8h1_elwIUuc7hCCRbD7?authuser=1)
 
 ## Resources
+* [Combination of Multiple Global Descriptors for Image Retrieval](https://arxiv.org/pdf/1903.10663v1.pdf)
+* [PyRetri: A PyTorch-based Library for Unsupervised Image
+Retrieval by Deep Convolutional Neural Networks](https://arxiv.org/pdf/2005.02154v2.pdf)
+* [Deep Image Retrieval:
+Learning global representations for image search](https://arxiv.org/pdf/1604.01325.pdf)
 * [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 * [Learning a Similarity Metric Discriminatively, with Application to Face
 Verification
 ](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf)
-* [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
 
 ## Competition track A: Machine learning
 Proposal 1: Advertisement CTR prediction
